@@ -8,6 +8,8 @@ This Github page is a space where I store a reference of my technical works incl
 
 ## About Me
 
+Full-Name : Kumari Dipika
+<br />
 My current position is as a Software Engineer at Cognizant Technology Solutions where I have gained experience in maintaining and upgrading existing legacy code/systems and creating new customer facing applications and internal tools. The technologies that I have professional experience in are: Java, C#, JavaScript, ReactJS, HTML, CSS, SQL Server, ASP.NET, .NET Core, Git, JQuery, AJAX, Azure Cloud and IIS. 
 
 I have also gained experience in online/offline teaching. I have taught students from the very secondary level to graduate level. My field of expertise is coding. 
